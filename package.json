@@ -1,6 +1,6 @@
 {
-  "homepage": "https://mawethun.github.io/portfolioappfinal/App.js",
-  "name": "portfolio-app",
+  "homepage": "https://mawethuN.github.io/portfolioappfinal/App.js",
+  "name": "portfolioappfinal",
   "version": "1.0.0",
   "scripts": {
     "start": "react-scripts start",
@@ -26,5 +26,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
   }
 }
